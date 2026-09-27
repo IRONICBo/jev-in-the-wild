@@ -10019,6 +10019,221 @@
       "tier": "listed"
     },
     {
+      "id": "e_mui5032sj1eq3k",
+      "title": "Claude skill for building with Jev",
+      "summary": "Unofficial skill teaching Claude agents how to use Jev for typed decisions, calibrated confidence, and building applications; cites 150+ community projects.",
+      "url": "https://github.com/aaddrick/building-with-typesafe-jev",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "aaddrick",
+      "author": "aaddrick",
+      "publishedAt": "2026-09-26",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "stars",
+        "value": 62
+      },
+      "sentiment": null,
+      "tags": [
+        "education",
+        "skill",
+        "agents"
+      ],
+      "repo": {
+        "slug": "aaddrick/building-with-typesafe-jev"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mui4kp893fklsg",
+      "title": "Reduce Text-to-SQL token usage 5x with Jev database/table routing",
+      "summary": "Text-to-SQL agent using Jev to select relevant databases then tables before LLM writes SQL; achieved 5x token reduction across 400+ tables in 30+ PostgreSQL databases of Mexican public statistics.",
+      "url": "https://reddit.com/r/dataengineering/comments/1wpaiwi/reduced_token_usage_by_5x_on_texttosql_agents",
+      "kind": "usecase",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "reddit",
+      "sourceLabel": "r/dataengineering",
+      "author": "u/Yisuscx",
+      "publishedAt": "2026-09-24",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "points",
+        "value": 10
+      },
+      "sentiment": null,
+      "tags": [
+        "text-to-sql",
+        "cost-reduction",
+        "routing"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mufy77r4k56mxb",
+      "title": "OpenCode plugin replacing text-generation decisions with Jev",
+      "summary": "An OpenCode plugin that uses Jev for decisions otherwise handled through text generation.",
+      "url": "https://github.com/darwintechlab/openjev",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "darwintechlab",
+      "author": "darwintechlab",
+      "publishedAt": "2026-09-24",
+      "addedAt": "2026-09-24",
+      "metric": {
+        "type": "stars",
+        "value": 4
+      },
+      "sentiment": null,
+      "tags": [
+        "opencode",
+        "plugin",
+        "decision-making"
+      ],
+      "repo": {
+        "slug": "darwintechlab/openjev"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mui4kp87mqe2fj",
+      "title": "Kev: open-source System One decision engine with local model support",
+      "summary": "Apache-2.0 open-source System One-style decision engine supporting choice/score/noul primitives; self-hosted via Ollama, vLLM, or OpenAI-compatible backends; claims competitive performance with 9B local model.",
+      "url": "https://reddit.com/r/coolgithubprojects/comments/1wo12v0/kev_opensource_system_one_decisions_you_can",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "reddit",
+      "sourceLabel": "r/coolgithubprojects",
+      "author": "u/Miserable_Extent8845",
+      "publishedAt": "2026-09-23",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "points",
+        "value": 10
+      },
+      "sentiment": null,
+      "tags": [
+        "open-source",
+        "self-hosted",
+        "local-models"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mujy86i6uckfa3",
+      "title": "Benchmark Jev against Gemini on customer-message decisions",
+      "summary": "Entagl evaluated 1,357 labeled decisions and replayed 402 chats, reporting strong results when gated but failures on Arabic dialects and missing context.",
+      "url": "https://entagl.com/blog/typesafe-jev-benchmark-ai-decision-models",
+      "kind": "opinion",
+      "category": "benchmarks",
+      "categoryName": "Benchmarks and comparisons",
+      "source": "web",
+      "sourceLabel": "Entagl Research",
+      "author": "Entagl Research",
+      "publishedAt": "2026-09-23",
+      "addedAt": "2026-09-27",
+      "metric": null,
+      "sentiment": "mixed",
+      "tags": [
+        "benchmark",
+        "gemini",
+        "customer-messages"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mue8kmug1f9ljo",
+      "title": "Automate Salesforce actions with Jev",
+      "summary": "An experimental Salesforce autopilot uses an LLM for planning, Jev to choose each action, and Playwright for execution.",
+      "url": "https://github.com/flxbl-io/sf-autopilot",
+      "kind": "usecase",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "flxbl-io",
+      "author": "flxbl-io",
+      "publishedAt": "2026-09-19",
+      "addedAt": "2026-09-23",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "salesforce",
+        "playwright",
+        "automation"
+      ],
+      "repo": {
+        "slug": "flxbl-io/sf-autopilot"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mujy86ia35vion",
+      "title": "Provide typed Jev judgments through a CLI and agent skill",
+      "summary": "Shell wrapper for calibrated Jev decisions, with examples for classifying refund requests, routing work, scoring reviews, and triaging mail.",
+      "url": "https://github.com/okooo5km/jev",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "okooo5km/jev",
+      "author": "okooo5km",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-09-27",
+      "metric": {
+        "type": "stars",
+        "value": 10
+      },
+      "sentiment": null,
+      "tags": [
+        "cli",
+        "agent-skill",
+        "typed-decisions"
+      ],
+      "repo": {
+        "slug": "okooo5km/jev"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mujy86i8ezwbxm",
+      "title": "Expose Jev judgment tools through an MCP server",
+      "summary": "Open-source MCP server exposing Jev as typed judgment tools, including classify, score, check, batch-ask, and triage.",
+      "url": "https://github.com/rashedInt32/jev-mcp",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "rashedInt32/jev-mcp",
+      "author": "rashedInt32",
+      "publishedAt": "2026-09-17",
+      "addedAt": "2026-09-27",
+      "metric": {
+        "type": "stars",
+        "value": 8
+      },
+      "sentiment": null,
+      "tags": [
+        "mcp",
+        "server",
+        "typed-decisions"
+      ],
+      "repo": {
+        "slug": "rashedInt32/jev-mcp"
+      },
+      "tier": "listed"
+    },
+    {
       "id": "e_jevsocial",
       "title": "Research social media through a signed-in browser",
       "summary": "Jev chooses among bounded browser actions while the local application captures posts, comments, media, and source links before a separate model writes the report.",
