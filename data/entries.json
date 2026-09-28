@@ -10252,6 +10252,196 @@
         "pushedAt": "2026-09-28T03:43:42Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_muldq0cmum3dxo",
+      "title": "OpenDecider distills calibrated typed-decision models",
+      "summary": "OpenDecider publishes two teacher-distilled models, weights, and prediction logs, comparing a 400M model with Jev and Laya on typed decisions; Jev leads on Laya’s application battery.",
+      "url": "https://reddit.com/r/machinelearningnews/comments/1wrk247/opendecider_distilling_calibrated_system_one",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "reddit",
+      "sourceLabel": "r/machinelearningnews",
+      "author": "u/manjunath_shiva",
+      "publishedAt": "2026-09-27",
+      "addedAt": "2026-09-28",
+      "metric": {
+        "type": "points",
+        "value": 44
+      },
+      "sentiment": null,
+      "tags": [
+        "open-models",
+        "calibration",
+        "benchmark"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muldqnpi7m6dxq",
+      "title": "Turn GLM-5.3-Flash into a Jev-like decision model",
+      "summary": "Privatemode.ai describes an implementation that adapts GLM-5.3-Flash into a Jev-like System One decision model; the HN submission itself provides little detail.",
+      "url": "https://privatemode.ai/blog/system-one-from-glm-flash",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "author": "flxflx",
+      "publishedAt": "2026-09-26",
+      "addedAt": "2026-09-28",
+      "metric": {
+        "type": "points",
+        "value": 133
+      },
+      "sentiment": null,
+      "tags": [
+        "glm",
+        "system-one",
+        "imitation"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muldq0cn5kefux",
+      "title": "TensorSharp adds image input to Jev-compatible decisions",
+      "summary": "TensorSharp runs local Jev-compatible typed decisions through the System One API and extends its request format to accept images alongside text without changing the answer structure.",
+      "url": "https://reddit.com/r/unsloth/comments/1woidho/using_unsloths_diffusiongemma_gguf_for_local",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "reddit",
+      "sourceLabel": "r/unsloth",
+      "author": "u/fuzhongkai",
+      "publishedAt": "2026-09-23",
+      "addedAt": "2026-09-28",
+      "metric": {
+        "type": "points",
+        "value": 43
+      },
+      "sentiment": null,
+      "tags": [
+        "local-inference",
+        "multimodal",
+        "api"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mufy8cwv19924w",
+      "title": "Governed execution layer for Jev-driven agent actions",
+      "summary": "Adds deterministic policy controls and auditing between Jev decisions and tools such as Claude Code, MCP, and AI SDKs.",
+      "url": "https://github.com/0xshikhar/jev-fuse",
+      "kind": "code",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "github",
+      "sourceLabel": "0xshikhar",
+      "author": "0xshikhar",
+      "publishedAt": "2026-09-23",
+      "addedAt": "2026-09-24",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "agents",
+        "guardrails",
+        "policy"
+      ],
+      "repo": {
+        "slug": "0xshikhar/jev-fuse"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muldrh887cmaxv",
+      "title": "Build Jev skills and plugins, then measure results",
+      "summary": "A skill and plugin for building with Jev, upgrading LLM-only workflows, and measuring the results.",
+      "url": "https://github.com/thehan-co/jevriel",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "thehan-co",
+      "author": "thehan-co",
+      "publishedAt": "2026-09-21",
+      "addedAt": "2026-09-28",
+      "metric": {
+        "type": "stars",
+        "value": 6
+      },
+      "sentiment": null,
+      "tags": [
+        "skills",
+        "plugins",
+        "evaluation"
+      ],
+      "repo": {
+        "slug": "thehan-co/jevriel"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muldrh89hcqe6i",
+      "title": "Document Jev API and engineering history",
+      "summary": "A community-maintained history of Jev APIs, SDKs, agent guidance, and engineering practices; useful documentation, though specifics are not given.",
+      "url": "https://github.com/chenrui333/jev-docs",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "chenrui333",
+      "author": "chenrui333",
+      "publishedAt": "2026-09-21",
+      "addedAt": "2026-09-28",
+      "metric": {
+        "type": "stars",
+        "value": 5
+      },
+      "sentiment": null,
+      "tags": [
+        "documentation",
+        "api",
+        "engineering"
+      ],
+      "repo": {
+        "slug": "chenrui333/jev-docs"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mufy77qvtrbjfm",
+      "title": "Curated list of Jev and System One projects",
+      "summary": "An unofficial collection of useful TypeSafe AI Jev and System One projects.",
+      "url": "https://github.com/sontakey/awesome-jev",
+      "kind": "code",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "github",
+      "sourceLabel": "sontakey",
+      "author": "sontakey",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-09-24",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "curated-list",
+        "projects",
+        "system-one"
+      ],
+      "repo": {
+        "slug": "sontakey/awesome-jev"
+      },
+      "tier": "listed"
     }
   ]
 }
