@@ -10458,6 +10458,391 @@
         "pushedAt": "2026-09-28T11:11:42Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_mumt58ym20u2o7",
+      "title": "Curate Jev security and robustness research",
+      "summary": "A curated collection of papers on security, robustness, and safety of Jev and System One models.",
+      "url": "https://github.com/Sarim-MBZUAI/awesome-jev-security",
+      "kind": "code",
+      "category": "research",
+      "categoryName": "Model and research",
+      "source": "github",
+      "sourceLabel": "Sarim-MBZUAI",
+      "author": "Sarim-MBZUAI",
+      "publishedAt": "2026-09-29",
+      "addedAt": "2026-09-29",
+      "metric": {
+        "type": "stars",
+        "value": 4
+      },
+      "sentiment": null,
+      "tags": [
+        "security",
+        "robustness",
+        "papers"
+      ],
+      "repo": {
+        "slug": "Sarim-MBZUAI/awesome-jev-security"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mumt4aewx4qtj1",
+      "title": "Run open-weight Jev-compatible decision models locally",
+      "summary": "Jeff offers 0.8B and 2B locally trained decision models with a Jev-compatible API; the author reports roughly 30 ms decisions and benchmark performance comparable to Jev.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wspn24/trained_locally_ultrafast_08b2b_system_1_decision",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "reddit",
+      "sourceLabel": "r/LocalLLaMA",
+      "author": "u/Usual_Maximum7673",
+      "publishedAt": "2026-09-28",
+      "addedAt": "2026-09-29",
+      "metric": {
+        "type": "points",
+        "value": 35
+      },
+      "sentiment": null,
+      "tags": [
+        "open-models",
+        "local-inference",
+        "benchmarks"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mumt4aeudl7bc2",
+      "title": "Fine-tune a Jev-compatible multimodal decision model",
+      "summary": "ImaJev is a fine-tuned model for business decisions from text and images, developed to add image support absent from Jev; the author reports leading JevBench results.",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wsgrma/imajev4b_i_spent_15_days_finetuning_a_4b_model_to",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "reddit",
+      "sourceLabel": "r/LocalLLaMA",
+      "author": "u/Educational-Care7867",
+      "publishedAt": "2026-09-28",
+      "addedAt": "2026-09-29",
+      "metric": {
+        "type": "points",
+        "value": 192
+      },
+      "sentiment": null,
+      "tags": [
+        "open-models",
+        "multimodal",
+        "fine-tuning"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_muldrze6eo7g2g",
+      "title": "SvelteKit workbench and CLI for Jev experiments",
+      "summary": "fini/warped-sys1-lab is an experiment lab for Jev/System One with a SvelteKit workbench and command-line interface; capabilities beyond that are unspecified.",
+      "url": "https://github.com/fini/warped-sys1-lab",
+      "kind": "code",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "github",
+      "sourceLabel": "fini",
+      "author": "fini",
+      "publishedAt": "2026-09-28",
+      "addedAt": "2026-09-28",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "experiments",
+        "sveltekit",
+        "cli"
+      ],
+      "repo": {
+        "slug": "fini/warped-sys1-lab"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muh3eghvwa7zxm",
+      "title": "Route Claude Code and Codex CLI turns to model tiers",
+      "summary": "A pass-through router uses Jev to select a model tier for each human turn in Claude Code and Codex CLI.",
+      "url": "https://github.com/dirien/jev-router",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "dirien",
+      "author": "dirien",
+      "publishedAt": "2026-09-24",
+      "addedAt": "2026-09-25",
+      "metric": {
+        "type": "stars",
+        "value": 6
+      },
+      "sentiment": null,
+      "tags": [
+        "model-routing",
+        "coding-agents"
+      ],
+      "repo": {
+        "slug": "dirien/jev-router"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mufy77r6gnmarf",
+      "title": "MCP server and skill for Jev-driven coding loops",
+      "summary": "A decision-driven build loop where Jev makes decisions and Claude Code, Codex, or Hermes builds, packaged as an MCP server and skill.",
+      "url": "https://github.com/King4s/jev-loop",
+      "kind": "code",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "github",
+      "sourceLabel": "King4s",
+      "author": "King4s",
+      "publishedAt": "2026-09-24",
+      "addedAt": "2026-09-24",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "mcp",
+        "coding-agents",
+        "workflow"
+      ],
+      "repo": {
+        "slug": "King4s/jev-loop"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muldq0ckd21oky",
+      "title": "Categorize meal-planning lists faster than an LLM",
+      "summary": "A builder reports using Jev to categorize preset meal-planning lists in under a second, compared with 30–60 seconds using DeepSeek V4 Flash at similar cost.",
+      "url": "https://news.ycombinator.com/item?id=49802160",
+      "kind": "usecase",
+      "category": "routing",
+      "categoryName": "Classification and routing",
+      "source": "hackernews",
+      "sourceLabel": "Hacker News",
+      "author": "suraj_phanindra",
+      "publishedAt": "2026-09-23",
+      "addedAt": "2026-09-28",
+      "metric": {
+        "type": "points",
+        "value": 95
+      },
+      "sentiment": null,
+      "tags": [
+        "categorization",
+        "meal-planning",
+        "latency"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mumt58yna6m2ao",
+      "title": "Play chess against Jev through OpenRouter",
+      "summary": "A pico-based chess application that lets users play against TypeSafe's Jev model via OpenRouter.",
+      "url": "https://github.com/dperezcabrera/ai-chess-lab",
+      "kind": "code",
+      "category": "realtime",
+      "categoryName": "Real-time and games",
+      "source": "github",
+      "sourceLabel": "dperezcabrera",
+      "author": "dperezcabrera",
+      "publishedAt": "2026-09-21",
+      "addedAt": "2026-09-29",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "chess",
+        "openrouter",
+        "game"
+      ],
+      "repo": {
+        "slug": "dperezcabrera/ai-chess-lab"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mumt58yjao1iyw",
+      "title": "Check Markdown specs against code with Jev",
+      "summary": "A GitHub tool that uses Jev to catch drift between a project's Markdown specifications and its code on each commit.",
+      "url": "https://github.com/nozomi-koborinai/jev-spec",
+      "kind": "code",
+      "category": "guardrails",
+      "categoryName": "Guardrails and verification",
+      "source": "github",
+      "sourceLabel": "nozomi-koborinai",
+      "author": "nozomi-koborinai",
+      "publishedAt": "2026-09-20",
+      "addedAt": "2026-09-29",
+      "metric": {
+        "type": "stars",
+        "value": 11
+      },
+      "sentiment": null,
+      "tags": [
+        "specs",
+        "ci",
+        "verification"
+      ],
+      "repo": {
+        "slug": "nozomi-koborinai/jev-spec"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muldrze3tane2t",
+      "title": "Python judgment-call wrapper for Jev and small models",
+      "summary": "Kungie/gut provides one-line Python calls for classification, rating, and yes/no/unsure judgments using Jev or small-model backends, including local NLI, Ollama, vLLM, and OpenAI.",
+      "url": "https://github.com/Kungie/gut",
+      "kind": "code",
+      "category": "imitations",
+      "categoryName": "Open imitations and local models",
+      "source": "github",
+      "sourceLabel": "Kungie",
+      "author": "Kungie",
+      "publishedAt": "2026-09-20",
+      "addedAt": "2026-09-28",
+      "metric": {
+        "type": "stars",
+        "value": 4
+      },
+      "sentiment": null,
+      "tags": [
+        "python",
+        "local-models",
+        "classification"
+      ],
+      "repo": {
+        "slug": "Kungie/gut"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mumt58yf3bjkgl",
+      "title": "Curate Jev and TypeSafe resources",
+      "summary": "A curated list of typed-decision resources for TypeSafe's Jev, presented as a collection of resources rather than the already-listed AnotiaWang catalog.",
+      "url": "https://github.com/valentynkit/awesome-jev-typesafe",
+      "kind": "code",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "github",
+      "sourceLabel": "valentynkit",
+      "author": "valentynkit",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-09-29",
+      "metric": {
+        "type": "stars",
+        "value": 186
+      },
+      "sentiment": null,
+      "tags": [
+        "curation",
+        "resources",
+        "typesafe"
+      ],
+      "repo": {
+        "slug": "valentynkit/awesome-jev-typesafe"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mumt58yi91gce7",
+      "title": "Maintain an evidence-graded Jev project index",
+      "summary": "An automatically rebuilt index of Jev SDKs, MCP tools, agents, apps, and open models, covering 20 languages and refreshed every two hours.",
+      "url": "https://github.com/wh000wh000/awesome-jev-live",
+      "kind": "code",
+      "category": "other",
+      "categoryName": "Everything else",
+      "source": "github",
+      "sourceLabel": "wh000wh000",
+      "author": "wh000wh000",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-09-29",
+      "metric": {
+        "type": "stars",
+        "value": 72
+      },
+      "sentiment": null,
+      "tags": [
+        "curation",
+        "index",
+        "automation"
+      ],
+      "repo": {
+        "slug": "wh000wh000/awesome-jev-live"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mumt58yh242zcx",
+      "title": "Curate Chinese Jev resources and projects",
+      "summary": "A Chinese-language curated list spanning official materials, SDKs, apps, agent tools, open reproductions, and evaluations, with an introductory guide and automated GitHub trend collection.",
+      "url": "https://github.com/yzfly/awesome-jev-zh",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "yzfly",
+      "author": "yzfly",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-09-29",
+      "metric": {
+        "type": "stars",
+        "value": 77
+      },
+      "sentiment": null,
+      "tags": [
+        "curation",
+        "chinese",
+        "resources"
+      ],
+      "repo": {
+        "slug": "yzfly/awesome-jev-zh"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mumt58ylarfe63",
+      "title": "Provide an idiomatic Go SDK for TypeSafe AI",
+      "summary": "An idiomatic Go client library for the TypeSafe AI API; distinct from the separately collected Go SDK entry.",
+      "url": "https://github.com/zhirschtritt/typesafe-go",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "zhirschtritt",
+      "author": "zhirschtritt",
+      "publishedAt": "2026-09-16",
+      "addedAt": "2026-09-29",
+      "metric": {
+        "type": "stars",
+        "value": 4
+      },
+      "sentiment": null,
+      "tags": [
+        "go",
+        "sdk",
+        "api"
+      ],
+      "repo": {
+        "slug": "zhirschtritt/typesafe-go"
+      },
+      "tier": "listed"
     }
   ]
 }
