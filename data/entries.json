@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30",
+  "generatedAt": "2026-10-01",
   "categories": [
     {
       "id": "routing",
@@ -302,7 +302,7 @@
       "addedAt": "2026-09-22",
       "metric": {
         "type": "stars",
-        "value": 0
+        "value": 1
       },
       "sentiment": null,
       "tags": [
@@ -317,7 +317,7 @@
         "language": "Python",
         "pushedAt": "2026-09-23T06:38:29Z"
       },
-      "tier": "unproven"
+      "tier": "listed"
     },
     {
       "id": "e_muccm88r4j0afp",
@@ -432,7 +432,7 @@
       "addedAt": "2026-09-22",
       "metric": {
         "type": "stars",
-        "value": 6
+        "value": 7
       },
       "sentiment": null,
       "tags": [
@@ -477,7 +477,7 @@
         "archived": false,
         "license": "CC0-1.0",
         "language": "Python",
-        "pushedAt": "2026-09-30T01:56:54Z"
+        "pushedAt": "2026-10-01T05:59:53Z"
       },
       "tier": "listed"
     },
@@ -752,7 +752,7 @@
       "addedAt": "2026-09-22",
       "metric": {
         "type": "stars",
-        "value": 14
+        "value": 13
       },
       "sentiment": null,
       "tags": [
@@ -816,7 +816,7 @@
       "addedAt": "2026-09-22",
       "metric": {
         "type": "stars",
-        "value": 278
+        "value": 277
       },
       "sentiment": null,
       "tags": [
@@ -1354,7 +1354,7 @@
       "addedAt": "2026-09-22",
       "metric": {
         "type": "stars",
-        "value": 12334
+        "value": 12348
       },
       "sentiment": null,
       "tags": [
@@ -1367,7 +1367,7 @@
         "archived": false,
         "license": "Apache-2.0",
         "language": "Python",
-        "pushedAt": "2026-09-28T20:16:14Z"
+        "pushedAt": "2026-10-01T07:04:38Z"
       },
       "tier": "listed"
     },
@@ -1386,7 +1386,7 @@
       "addedAt": "2026-09-22",
       "metric": {
         "type": "stars",
-        "value": 491
+        "value": 495
       },
       "sentiment": null,
       "tags": [
@@ -1399,7 +1399,7 @@
         "archived": false,
         "license": "MIT",
         "language": "TypeScript",
-        "pushedAt": "2026-09-20T18:37:23Z"
+        "pushedAt": "2026-10-01T03:37:25Z"
       },
       "tier": "listed"
     },
@@ -1770,7 +1770,7 @@
       "addedAt": "2026-09-21",
       "metric": {
         "type": "stars",
-        "value": 22
+        "value": 24
       },
       "sentiment": null,
       "tags": [
@@ -2026,7 +2026,7 @@
       "addedAt": "2026-09-21",
       "metric": {
         "type": "stars",
-        "value": 22
+        "value": 21
       },
       "sentiment": null,
       "tags": [
@@ -2732,7 +2732,7 @@
         "archived": false,
         "license": "CC0-1.0",
         "language": "",
-        "pushedAt": "2026-09-30T07:24:39Z"
+        "pushedAt": "2026-10-01T07:25:09Z"
       },
       "tier": "listed"
     },
@@ -2847,7 +2847,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 40
+        "value": 44
       },
       "sentiment": null,
       "tags": [
@@ -2860,7 +2860,7 @@
         "archived": false,
         "license": "Apache-2.0",
         "language": "Java",
-        "pushedAt": "2026-09-30T08:35:40Z"
+        "pushedAt": "2026-09-30T22:05:53Z"
       },
       "tier": "listed"
     },
@@ -2879,7 +2879,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 5
+        "value": 4
       },
       "sentiment": null,
       "tags": [
@@ -2911,7 +2911,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 23
+        "value": 22
       },
       "sentiment": null,
       "tags": [
@@ -2943,7 +2943,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 347
+        "value": 359
       },
       "sentiment": null,
       "tags": [
@@ -3124,7 +3124,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 17
+        "value": 16
       },
       "sentiment": null,
       "tags": [
@@ -3156,7 +3156,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 10
+        "value": 9
       },
       "sentiment": null,
       "tags": [
@@ -3617,7 +3617,7 @@
         "archived": false,
         "license": "MIT",
         "language": "Java",
-        "pushedAt": "2026-09-21T09:11:57Z"
+        "pushedAt": "2026-10-01T01:29:08Z"
       },
       "tier": "listed"
     },
@@ -3758,7 +3758,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 11
+        "value": 10
       },
       "sentiment": null,
       "tags": [
@@ -4013,7 +4013,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 38
+        "value": 39
       },
       "sentiment": null,
       "tags": [
@@ -4045,7 +4045,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 483
+        "value": 484
       },
       "sentiment": null,
       "tags": [
@@ -4077,7 +4077,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 1095
+        "value": 1104
       },
       "sentiment": null,
       "tags": [
@@ -4354,7 +4354,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 548
+        "value": 551
       },
       "sentiment": null,
       "tags": [
@@ -4367,7 +4367,7 @@
         "archived": false,
         "license": "MIT",
         "language": "HTML",
-        "pushedAt": "2026-09-28T07:21:29Z"
+        "pushedAt": "2026-09-30T14:12:33Z"
       },
       "tier": "listed"
     },
@@ -4432,7 +4432,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 4
+        "value": 3
       },
       "sentiment": null,
       "tags": [
@@ -4445,7 +4445,7 @@
         "archived": false,
         "license": "Apache-2.0",
         "language": "JavaScript",
-        "pushedAt": "2026-09-27T07:35:17Z"
+        "pushedAt": "2026-10-01T07:56:16Z"
       },
       "tier": "listed"
     },
@@ -4509,7 +4509,7 @@
         "archived": false,
         "license": "",
         "language": "TypeScript",
-        "pushedAt": "2026-09-30T08:26:31Z"
+        "pushedAt": "2026-10-01T08:38:25Z"
       },
       "tier": "unproven"
     },
@@ -4590,7 +4590,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 3
+        "value": 2
       },
       "sentiment": null,
       "tags": [
@@ -5109,7 +5109,7 @@
         "archived": false,
         "license": "MIT",
         "language": "HTML",
-        "pushedAt": "2026-09-29T23:48:57Z"
+        "pushedAt": "2026-09-30T19:24:54Z"
       },
       "tier": "listed"
     },
@@ -5356,7 +5356,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 3
+        "value": 2
       },
       "sentiment": null,
       "tags": [
@@ -5623,7 +5623,7 @@
         "archived": false,
         "license": "MIT",
         "language": "TypeScript",
-        "pushedAt": "2026-09-22T04:36:03Z"
+        "pushedAt": "2026-09-30T15:33:38Z"
       },
       "tier": "listed"
     },
@@ -5674,7 +5674,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 23
+        "value": 22
       },
       "sentiment": null,
       "tags": [
@@ -5687,7 +5687,7 @@
         "archived": false,
         "license": "MIT",
         "language": "JavaScript",
-        "pushedAt": "2026-09-27T19:20:49Z"
+        "pushedAt": "2026-09-30T15:47:49Z"
       },
       "tier": "listed"
     },
@@ -5738,7 +5738,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 144
+        "value": 143
       },
       "sentiment": null,
       "tags": [
@@ -5751,7 +5751,7 @@
         "archived": false,
         "license": "MIT",
         "language": "TypeScript",
-        "pushedAt": "2026-09-30T07:51:13Z"
+        "pushedAt": "2026-09-30T22:31:05Z"
       },
       "tier": "listed"
     },
@@ -5871,7 +5871,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 3
+        "value": 2
       },
       "sentiment": null,
       "tags": [
@@ -6091,7 +6091,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 3
+        "value": 2
       },
       "sentiment": null,
       "tags": [
@@ -6337,7 +6337,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 6
+        "value": 7
       },
       "sentiment": null,
       "tags": [
@@ -6595,7 +6595,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 110
+        "value": 109
       },
       "sentiment": null,
       "tags": [
@@ -6679,7 +6679,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 43
+        "value": 47
       },
       "sentiment": null,
       "tags": [
@@ -7009,7 +7009,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 6
+        "value": 5
       },
       "sentiment": null,
       "tags": [
@@ -7041,7 +7041,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 16
+        "value": 15
       },
       "sentiment": null,
       "tags": [
@@ -7054,7 +7054,7 @@
         "archived": false,
         "license": "CC0-1.0",
         "language": "Python",
-        "pushedAt": "2026-09-30T03:45:49Z"
+        "pushedAt": "2026-10-01T03:46:31Z"
       },
       "tier": "listed"
     },
@@ -7229,7 +7229,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 22
+        "value": 21
       },
       "sentiment": null,
       "tags": [
@@ -7397,7 +7397,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 91
+        "value": 92
       },
       "sentiment": null,
       "tags": [
@@ -7410,7 +7410,7 @@
         "archived": false,
         "license": "NOASSERTION",
         "language": "Python",
-        "pushedAt": "2026-09-30T06:08:49Z"
+        "pushedAt": "2026-10-01T06:01:58Z"
       },
       "tier": "listed"
     },
@@ -7494,7 +7494,7 @@
         "archived": false,
         "license": "NOASSERTION",
         "language": "Rust",
-        "pushedAt": "2026-09-29T18:48:56Z"
+        "pushedAt": "2026-10-01T01:16:14Z"
       },
       "tier": "listed"
     },
@@ -7591,7 +7591,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 256
+        "value": 259
       },
       "sentiment": null,
       "tags": [
@@ -7623,7 +7623,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 259
+        "value": 262
       },
       "sentiment": null,
       "tags": [
@@ -7655,7 +7655,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 360
+        "value": 370
       },
       "sentiment": null,
       "tags": [
@@ -7713,7 +7713,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 885
+        "value": 889
       },
       "sentiment": null,
       "tags": [
@@ -7771,7 +7771,7 @@
       "addedAt": "2026-09-20",
       "metric": {
         "type": "stars",
-        "value": 2457
+        "value": 2504
       },
       "sentiment": null,
       "tags": [
@@ -7872,7 +7872,7 @@
       "addedAt": "2026-09-23",
       "metric": {
         "type": "stars",
-        "value": 141
+        "value": 143
       },
       "sentiment": null,
       "tags": [
@@ -7904,7 +7904,7 @@
       "addedAt": "2026-09-23",
       "metric": {
         "type": "stars",
-        "value": 5
+        "value": 6
       },
       "sentiment": null,
       "tags": [
@@ -7949,7 +7949,7 @@
         "archived": false,
         "license": "CC0-1.0",
         "language": "",
-        "pushedAt": "2026-09-29T14:01:34Z"
+        "pushedAt": "2026-09-30T18:03:59Z"
       },
       "tier": "listed"
     },
@@ -8020,7 +8020,7 @@
       "addedAt": "2026-09-22",
       "metric": {
         "type": "stars",
-        "value": 37
+        "value": 36
       },
       "sentiment": null,
       "tags": [
@@ -8252,7 +8252,7 @@
       "addedAt": "2026-09-23",
       "metric": {
         "type": "stars",
-        "value": 55
+        "value": 54
       },
       "sentiment": null,
       "tags": [
@@ -8342,7 +8342,7 @@
       "addedAt": "2026-09-23",
       "metric": {
         "type": "stars",
-        "value": 130
+        "value": 139
       },
       "sentiment": null,
       "tags": [
@@ -8451,7 +8451,7 @@
         "archived": false,
         "license": "MIT",
         "language": "JavaScript",
-        "pushedAt": "2026-09-29T17:34:16Z"
+        "pushedAt": "2026-09-30T22:50:58Z"
       },
       "tier": "listed"
     },
@@ -8502,7 +8502,7 @@
       "addedAt": "2026-09-23",
       "metric": {
         "type": "stars",
-        "value": 469
+        "value": 475
       },
       "sentiment": null,
       "tags": [
@@ -8515,7 +8515,7 @@
         "archived": false,
         "license": "CC0-1.0",
         "language": "",
-        "pushedAt": "2026-09-25T17:25:26Z"
+        "pushedAt": "2026-09-30T13:45:53Z"
       },
       "tier": "listed"
     },
@@ -8534,7 +8534,7 @@
       "addedAt": "2026-09-22",
       "metric": {
         "type": "stars",
-        "value": 479
+        "value": 483
       },
       "sentiment": null,
       "tags": [
@@ -8547,7 +8547,7 @@
         "archived": false,
         "license": "NOASSERTION",
         "language": "JavaScript",
-        "pushedAt": "2026-09-30T03:11:02Z"
+        "pushedAt": "2026-10-01T06:02:12Z"
       },
       "tier": "listed"
     },
@@ -8566,7 +8566,7 @@
       "addedAt": "2026-09-23",
       "metric": {
         "type": "stars",
-        "value": 2000
+        "value": 2042
       },
       "sentiment": null,
       "tags": [
@@ -8579,7 +8579,7 @@
         "archived": false,
         "license": "",
         "language": "Python",
-        "pushedAt": "2026-09-30T07:32:23Z"
+        "pushedAt": "2026-09-30T19:19:59Z"
       },
       "tier": "listed"
     },
@@ -8598,7 +8598,7 @@
       "addedAt": "2026-09-23",
       "metric": {
         "type": "stars",
-        "value": 548
+        "value": 551
       },
       "sentiment": null,
       "tags": [
@@ -8611,7 +8611,7 @@
         "archived": false,
         "license": "MIT",
         "language": "HTML",
-        "pushedAt": "2026-09-28T07:21:29Z"
+        "pushedAt": "2026-09-30T14:12:33Z"
       },
       "tier": "listed"
     },
@@ -8630,7 +8630,7 @@
       "addedAt": "2026-09-22",
       "metric": {
         "type": "stars",
-        "value": 337
+        "value": 338
       },
       "sentiment": null,
       "tags": [
@@ -8662,7 +8662,7 @@
       "addedAt": "2026-09-23",
       "metric": {
         "type": "stars",
-        "value": 40
+        "value": 39
       },
       "sentiment": null,
       "tags": [
@@ -8694,7 +8694,7 @@
       "addedAt": "2026-09-23",
       "metric": {
         "type": "stars",
-        "value": 259
+        "value": 262
       },
       "sentiment": null,
       "tags": [
@@ -8726,7 +8726,7 @@
       "addedAt": "2026-09-22",
       "metric": {
         "type": "stars",
-        "value": 766
+        "value": 768
       },
       "sentiment": null,
       "tags": [
@@ -8739,7 +8739,7 @@
         "archived": false,
         "license": "MIT",
         "language": "TypeScript",
-        "pushedAt": "2026-09-30T08:11:20Z"
+        "pushedAt": "2026-09-30T20:45:40Z"
       },
       "tier": "listed"
     },
@@ -8758,7 +8758,7 @@
       "addedAt": "2026-09-23",
       "metric": {
         "type": "stars",
-        "value": 23
+        "value": 22
       },
       "sentiment": null,
       "tags": [
@@ -8771,7 +8771,7 @@
         "archived": false,
         "license": "MIT",
         "language": "Rust",
-        "pushedAt": "2026-09-28T21:04:08Z"
+        "pushedAt": "2026-10-01T08:43:08Z"
       },
       "tier": "listed"
     },
@@ -8803,7 +8803,7 @@
         "archived": false,
         "license": "MIT",
         "language": "C#",
-        "pushedAt": "2026-09-22T13:10:00Z"
+        "pushedAt": "2026-09-30T15:22:50Z"
       },
       "tier": "listed"
     },
@@ -8932,7 +8932,7 @@
       "addedAt": "2026-09-25",
       "metric": {
         "type": "stars",
-        "value": 3
+        "value": 5
       },
       "sentiment": null,
       "tags": [
@@ -8990,7 +8990,7 @@
       "addedAt": "2026-09-24",
       "metric": {
         "type": "stars",
-        "value": 56
+        "value": 57
       },
       "sentiment": null,
       "tags": [
@@ -9002,7 +9002,7 @@
         "archived": false,
         "license": "MIT",
         "language": "Python",
-        "pushedAt": "2026-09-30T02:48:31Z"
+        "pushedAt": "2026-09-30T18:18:17Z"
       },
       "tier": "listed"
     },
@@ -9102,7 +9102,7 @@
       "addedAt": "2026-09-24",
       "metric": {
         "type": "stars",
-        "value": 587
+        "value": 588
       },
       "sentiment": null,
       "tags": [
@@ -9115,7 +9115,7 @@
         "archived": false,
         "license": "NOASSERTION",
         "language": "Python",
-        "pushedAt": "2026-09-28T23:39:41Z"
+        "pushedAt": "2026-09-30T12:25:34Z"
       },
       "tier": "listed"
     },
@@ -9166,7 +9166,7 @@
       "addedAt": "2026-09-25",
       "metric": {
         "type": "stars",
-        "value": 43
+        "value": 47
       },
       "sentiment": null,
       "tags": [
@@ -9224,7 +9224,7 @@
       "addedAt": "2026-09-24",
       "metric": {
         "type": "stars",
-        "value": 264
+        "value": 272
       },
       "sentiment": null,
       "tags": [
@@ -9256,7 +9256,7 @@
       "addedAt": "2026-09-25",
       "metric": {
         "type": "stars",
-        "value": 7
+        "value": 6
       },
       "sentiment": null,
       "tags": [
@@ -9300,7 +9300,7 @@
         "archived": false,
         "license": "",
         "language": "TypeScript",
-        "pushedAt": "2026-09-30T05:48:48Z"
+        "pushedAt": "2026-10-01T08:56:02Z"
       },
       "tier": "listed"
     },
@@ -9345,7 +9345,7 @@
       "addedAt": "2026-09-22",
       "metric": {
         "type": "stars",
-        "value": 3
+        "value": 2
       },
       "sentiment": null,
       "tags": [
@@ -9377,7 +9377,7 @@
       "addedAt": "2026-09-24",
       "metric": {
         "type": "stars",
-        "value": 8
+        "value": 7
       },
       "sentiment": null,
       "tags": [
@@ -9408,7 +9408,7 @@
       "addedAt": "2026-09-24",
       "metric": {
         "type": "stars",
-        "value": 4
+        "value": 3
       },
       "sentiment": null,
       "tags": [
@@ -9653,7 +9653,7 @@
       "addedAt": "2026-09-26",
       "metric": {
         "type": "stars",
-        "value": 25
+        "value": 26
       },
       "sentiment": null,
       "tags": [
@@ -9698,7 +9698,7 @@
         "archived": false,
         "license": "Apache-2.0",
         "language": "JavaScript",
-        "pushedAt": "2026-09-26T22:36:26Z"
+        "pushedAt": "2026-09-30T13:20:03Z"
       },
       "tier": "listed"
     },
@@ -9775,7 +9775,7 @@
       "addedAt": "2026-09-26",
       "metric": {
         "type": "stars",
-        "value": 31
+        "value": 30
       },
       "sentiment": null,
       "tags": [
@@ -9788,7 +9788,7 @@
         "archived": false,
         "license": "NOASSERTION",
         "language": "",
-        "pushedAt": "2026-09-30T03:04:00Z"
+        "pushedAt": "2026-10-01T06:01:59Z"
       },
       "tier": "listed"
     },
@@ -9807,7 +9807,7 @@
       "addedAt": "2026-09-26",
       "metric": {
         "type": "stars",
-        "value": 86
+        "value": 90
       },
       "sentiment": null,
       "tags": [
@@ -9820,7 +9820,7 @@
         "archived": false,
         "license": "MIT",
         "language": "Rust",
-        "pushedAt": "2026-09-26T13:29:48Z"
+        "pushedAt": "2026-09-30T10:17:08Z"
       },
       "tier": "listed"
     },
@@ -9923,7 +9923,7 @@
       "addedAt": "2026-09-26",
       "metric": {
         "type": "stars",
-        "value": 13
+        "value": 12
       },
       "sentiment": null,
       "tags": [
@@ -9936,7 +9936,7 @@
         "archived": false,
         "license": "MIT",
         "language": "C#",
-        "pushedAt": "2026-09-29T16:46:43Z"
+        "pushedAt": "2026-09-30T20:28:43Z"
       },
       "tier": "listed"
     },
@@ -10033,7 +10033,7 @@
       "addedAt": "2026-09-26",
       "metric": {
         "type": "stars",
-        "value": 124
+        "value": 126
       },
       "sentiment": null,
       "tags": [
@@ -10091,7 +10091,7 @@
       "addedAt": "2026-09-24",
       "metric": {
         "type": "stars",
-        "value": 6
+        "value": 7
       },
       "sentiment": null,
       "tags": [
@@ -10236,7 +10236,7 @@
       "addedAt": "2026-09-27",
       "metric": {
         "type": "stars",
-        "value": 8
+        "value": 7
       },
       "sentiment": null,
       "tags": [
@@ -10410,7 +10410,7 @@
       "addedAt": "2026-09-28",
       "metric": {
         "type": "stars",
-        "value": 6
+        "value": 5
       },
       "sentiment": null,
       "tags": [
@@ -10442,7 +10442,7 @@
       "addedAt": "2026-09-24",
       "metric": {
         "type": "stars",
-        "value": 3
+        "value": 2
       },
       "sentiment": null,
       "tags": [
@@ -10455,7 +10455,7 @@
         "archived": false,
         "license": "NOASSERTION",
         "language": "Python",
-        "pushedAt": "2026-09-29T11:10:57Z"
+        "pushedAt": "2026-09-30T11:13:18Z"
       },
       "tier": "listed"
     },
@@ -10474,7 +10474,7 @@
       "addedAt": "2026-09-29",
       "metric": {
         "type": "stars",
-        "value": 4
+        "value": 5
       },
       "sentiment": null,
       "tags": [
@@ -10590,7 +10590,7 @@
       "addedAt": "2026-09-25",
       "metric": {
         "type": "stars",
-        "value": 6
+        "value": 8
       },
       "sentiment": null,
       "tags": [
@@ -10711,7 +10711,7 @@
       "addedAt": "2026-09-29",
       "metric": {
         "type": "stars",
-        "value": 11
+        "value": 10
       },
       "sentiment": null,
       "tags": [
@@ -10743,7 +10743,7 @@
       "addedAt": "2026-09-28",
       "metric": {
         "type": "stars",
-        "value": 5
+        "value": 6
       },
       "sentiment": null,
       "tags": [
@@ -10788,7 +10788,7 @@
         "archived": false,
         "license": "CC0-1.0",
         "language": "JavaScript",
-        "pushedAt": "2026-09-29T12:01:17Z"
+        "pushedAt": "2026-09-30T11:49:56Z"
       },
       "tier": "listed"
     },
@@ -10807,7 +10807,7 @@
       "addedAt": "2026-09-29",
       "metric": {
         "type": "stars",
-        "value": 78
+        "value": 92
       },
       "sentiment": null,
       "tags": [
@@ -10820,7 +10820,7 @@
         "archived": false,
         "license": "NOASSERTION",
         "language": "Python",
-        "pushedAt": "2026-09-30T07:45:09Z"
+        "pushedAt": "2026-10-01T08:50:04Z"
       },
       "tier": "listed"
     },
@@ -10852,7 +10852,7 @@
         "archived": false,
         "license": "CC0-1.0",
         "language": "HTML",
-        "pushedAt": "2026-09-30T01:24:45Z"
+        "pushedAt": "2026-10-01T01:31:52Z"
       },
       "tier": "listed"
     },
@@ -10871,7 +10871,7 @@
       "addedAt": "2026-09-29",
       "metric": {
         "type": "stars",
-        "value": 4
+        "value": 3
       },
       "sentiment": null,
       "tags": [
@@ -10884,7 +10884,333 @@
         "archived": false,
         "license": "MIT",
         "language": "Go",
-        "pushedAt": "2026-09-29T14:23:40Z"
+        "pushedAt": "2026-10-01T00:29:28Z"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muo8pu35dphhhq",
+      "title": "Publish TypeSafe AI’s workflow evaluation code",
+      "summary": "TypeSafe AI published the WorkflowEvals repository, making its workflow evaluation code available publicly.",
+      "url": "https://github.com/typesafe-ai/WorkflowEvals",
+      "kind": "official",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "blog",
+      "sourceLabel": "github.com/typesafe-ai",
+      "author": "typesafe-ai",
+      "publishedAt": "2026-09-28",
+      "addedAt": "2026-09-30",
+      "metric": {
+        "type": "stars",
+        "value": 12
+      },
+      "sentiment": null,
+      "tags": [
+        "workflow-evals",
+        "evaluation",
+        "official"
+      ],
+      "repo": {
+        "slug": "typesafe-ai/WorkflowEvals",
+        "archived": false,
+        "license": "Apache-2.0",
+        "language": "Python",
+        "pushedAt": "2026-09-29T16:25:18Z"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muh3f18rxlko95",
+      "title": "QA demos for triage and test-agent guardrails",
+      "summary": "A TypeScript/Vercel AI Gateway demo repo shows Jev triage of CI failures, command safety checks for test agents, RAG grounding checks, and tests of documented failure modes.",
+      "url": "https://github.com/gauravkhuraana/jev-qa-demos",
+      "kind": "code",
+      "category": "guardrails",
+      "categoryName": "Guardrails and verification",
+      "source": "github",
+      "sourceLabel": "gauravkhuraana",
+      "author": "gauravkhuraana",
+      "publishedAt": "2026-09-25",
+      "addedAt": "2026-09-25",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "qa",
+        "testing",
+        "guardrails"
+      ],
+      "repo": {
+        "slug": "gauravkhuraana/jev-qa-demos",
+        "archived": false,
+        "license": "",
+        "language": "TypeScript",
+        "pushedAt": "2026-10-01T04:46:58Z"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muo8o6snabbrp7",
+      "title": "Automate Pokémon Red decisions with Jev",
+      "summary": "An open-source harness reports completing Pokémon Red in 37h 40m for about $1.65 by giving Jev legal actions and game facts while code handles emulator mechanics.",
+      "url": "https://github.com/christianmat/jev-pokemon/blob/main/README.md",
+      "kind": "usecase",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "github",
+      "sourceLabel": "christianmat/jev-pokemon",
+      "author": "Christian Mathiesen",
+      "publishedAt": "2026-09-25",
+      "addedAt": "2026-09-30",
+      "metric": {
+        "type": "stars",
+        "value": 115
+      },
+      "sentiment": null,
+      "tags": [
+        "gaming",
+        "automation",
+        "decision-making"
+      ],
+      "repo": {
+        "slug": "christianmat/jev-pokemon",
+        "archived": false,
+        "license": "GPL-2.0",
+        "language": "TypeScript",
+        "pushedAt": "2026-09-28T17:46:13Z"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muij54rqtyp5jk",
+      "title": "Risk gate for AI coding agents using Jev / 使用 Jev 的 AI 代理风险门控",
+      "summary": "Blocks risky shell commands and guards against prompt injection for Claude Code and other agents; integrates Jev for safety escalation.",
+      "url": "https://github.com/ursuciprian/reflex",
+      "kind": "code",
+      "category": "guardrails",
+      "categoryName": "Guardrails and verification",
+      "source": "github",
+      "sourceLabel": "ursuciprian",
+      "author": "ursuciprian",
+      "publishedAt": "2026-09-24",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "safety",
+        "agents",
+        "shell"
+      ],
+      "repo": {
+        "slug": "ursuciprian/reflex",
+        "archived": false,
+        "license": "MIT",
+        "language": "JavaScript",
+        "pushedAt": "2026-10-01T01:32:36Z"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muldt7raofy0qo",
+      "title": "Use Jev as a Home Assistant conversation agent",
+      "summary": "A Home Assistant conversation-agent integration delegates decisions to TypeSafe Jev instead of an LLM.",
+      "url": "https://github.com/the-sof/home-assistant-typesafe-conversation-agent",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "the-sof",
+      "author": "the-sof",
+      "publishedAt": "2026-09-22",
+      "addedAt": "2026-09-28",
+      "metric": {
+        "type": "stars",
+        "value": 4
+      },
+      "sentiment": null,
+      "tags": [
+        "home-assistant",
+        "integration",
+        "conversation"
+      ],
+      "repo": {
+        "slug": "the-sof/home-assistant-typesafe-conversation-agent",
+        "archived": false,
+        "license": "MIT",
+        "language": "Python",
+        "pushedAt": "2026-09-28T14:50:19Z"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_muo8p5c42ashmc",
+      "title": "Build a Go client for Jev-backed content safety",
+      "summary": "Sael begins with a Go client for TypeSafe System One and plans to use it in a content-safety classifier for an AI request relay.",
+      "url": "https://github.com/cipherTing/sael",
+      "kind": "code",
+      "category": "guardrails",
+      "categoryName": "Guardrails and verification",
+      "source": "github",
+      "sourceLabel": "cipherTing",
+      "author": "cipherTing",
+      "publishedAt": "2026-09-21",
+      "addedAt": "2026-09-30",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "go",
+        "content-safety",
+        "api"
+      ],
+      "repo": {
+        "slug": "cipherTing/sael",
+        "archived": false,
+        "license": "MIT",
+        "language": "Go",
+        "pushedAt": "2026-09-30T12:46:12Z"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mupo1rq18mzp01",
+      "title": "Document measured Jev usage for Claude and Codex",
+      "summary": "Portuguese-language guide collects Jev knowledge, skills, and measured examples for use with Claude and Codex.",
+      "url": "https://github.com/ia-automation/How-to-use-JEV",
+      "kind": "official",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "ia-automation",
+      "author": "ia-automation",
+      "publishedAt": "2026-10-01",
+      "addedAt": "2026-10-01",
+      "metric": {
+        "type": "stars",
+        "value": 0
+      },
+      "sentiment": null,
+      "tags": [
+        "claude",
+        "codex",
+        "guide"
+      ],
+      "repo": {
+        "slug": "ia-automation/How-to-use-JEV"
+      },
+      "tier": "unproven"
+    },
+    {
+      "id": "e_mupo205wk8nvft",
+      "title": "Publish a Chinese TypeSafe AI handbook",
+      "summary": "A Chinese-language handbook documents TypeSafe AI, with light, dark, and color themes, synchronized with the official site and published via GitHub Pages.",
+      "url": "https://github.com/gradient30/typesafe-handbook",
+      "kind": "official",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "gradient30",
+      "author": "gradient30",
+      "publishedAt": "2026-09-20",
+      "addedAt": "2026-10-01",
+      "metric": {
+        "type": "stars",
+        "value": 0
+      },
+      "sentiment": null,
+      "tags": [
+        "documentation",
+        "chinese",
+        "handbook"
+      ],
+      "repo": {
+        "slug": "gradient30/typesafe-handbook"
+      },
+      "tier": "unproven"
+    },
+    {
+      "id": "e_mupo00s3ayem8b",
+      "title": "Compact Claude Code context using Jev scores",
+      "summary": "Plugin scores tool calls and results to decide what to preserve, truncate, or remove during compaction; falls back to Claude Code summaries if scoring fails.",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "tamaratran/fast-jev-compaction",
+      "author": "Tamara Tran",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-10-01",
+      "metric": {
+        "type": "stars",
+        "value": 7290
+      },
+      "sentiment": null,
+      "tags": [
+        "claude-code",
+        "compaction",
+        "context"
+      ],
+      "repo": {
+        "slug": "tamaratran/fast-jev-compaction"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mupo00s6611wsu",
+      "title": "Use Jev for Pokémon agent policy routing",
+      "summary": "Reports no benefit over plain BFS for step-by-step navigation, but finds Jev useful for higher-level policy routing at about 160 ms and $0.00002 per decision.",
+      "url": "https://2389.ai/research/writing/jev-plays-pokemon",
+      "kind": "opinion",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "web",
+      "sourceLabel": "2389 Research",
+      "author": "Michael Sugimura",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-10-01",
+      "metric": null,
+      "sentiment": "mixed",
+      "tags": [
+        "pokemon",
+        "policy-routing"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mui4rqsh4qe881",
+      "title": "Rust SDK for TypeSafe AI Jev",
+      "summary": "Community Rust client library for TypeSafe AI System One API with typed decision support.",
+      "url": "https://github.com/aoprisan/typesafe-ai-rust-sdk",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "aoprisan",
+      "author": "aoprisan",
+      "publishedAt": "2026-09-17",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "rust",
+        "sdk",
+        "client"
+      ],
+      "repo": {
+        "slug": "aoprisan/typesafe-ai-rust-sdk"
       },
       "tier": "listed"
     },
@@ -10903,7 +11229,7 @@
       "addedAt": "2026-09-26",
       "metric": {
         "type": "stars",
-        "value": 128
+        "value": 136
       },
       "sentiment": null,
       "tags": [
@@ -10916,7 +11242,7 @@
         "archived": false,
         "license": "MIT",
         "language": "JavaScript",
-        "pushedAt": "2026-09-30T04:55:39Z"
+        "pushedAt": "2026-10-01T20:47:45Z"
       },
       "tier": "listed"
     }
