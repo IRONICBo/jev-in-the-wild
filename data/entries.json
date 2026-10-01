@@ -11079,6 +11079,140 @@
         "pushedAt": "2026-09-30T12:46:12Z"
       },
       "tier": "listed"
+    },
+    {
+      "id": "e_mupo1rq18mzp01",
+      "title": "Document measured Jev usage for Claude and Codex",
+      "summary": "Portuguese-language guide collects Jev knowledge, skills, and measured examples for use with Claude and Codex.",
+      "url": "https://github.com/ia-automation/How-to-use-JEV",
+      "kind": "official",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "ia-automation",
+      "author": "ia-automation",
+      "publishedAt": "2026-10-01",
+      "addedAt": "2026-10-01",
+      "metric": {
+        "type": "stars",
+        "value": 0
+      },
+      "sentiment": null,
+      "tags": [
+        "claude",
+        "codex",
+        "guide"
+      ],
+      "repo": {
+        "slug": "ia-automation/How-to-use-JEV"
+      },
+      "tier": "unproven"
+    },
+    {
+      "id": "e_mupo205wk8nvft",
+      "title": "Publish a Chinese TypeSafe AI handbook",
+      "summary": "A Chinese-language handbook documents TypeSafe AI, with light, dark, and color themes, synchronized with the official site and published via GitHub Pages.",
+      "url": "https://github.com/gradient30/typesafe-handbook",
+      "kind": "official",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "gradient30",
+      "author": "gradient30",
+      "publishedAt": "2026-09-20",
+      "addedAt": "2026-10-01",
+      "metric": {
+        "type": "stars",
+        "value": 0
+      },
+      "sentiment": null,
+      "tags": [
+        "documentation",
+        "chinese",
+        "handbook"
+      ],
+      "repo": {
+        "slug": "gradient30/typesafe-handbook"
+      },
+      "tier": "unproven"
+    },
+    {
+      "id": "e_mupo00s3ayem8b",
+      "title": "Compact Claude Code context using Jev scores",
+      "summary": "Plugin scores tool calls and results to decide what to preserve, truncate, or remove during compaction; falls back to Claude Code summaries if scoring fails.",
+      "url": "https://github.com/tamaratran/fast-jev-compaction",
+      "kind": "code",
+      "category": "integrations",
+      "categoryName": "Editor, OS and app integrations",
+      "source": "github",
+      "sourceLabel": "tamaratran/fast-jev-compaction",
+      "author": "Tamara Tran",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-10-01",
+      "metric": {
+        "type": "stars",
+        "value": 7290
+      },
+      "sentiment": null,
+      "tags": [
+        "claude-code",
+        "compaction",
+        "context"
+      ],
+      "repo": {
+        "slug": "tamaratran/fast-jev-compaction"
+      },
+      "tier": "listed"
+    },
+    {
+      "id": "e_mupo00s6611wsu",
+      "title": "Use Jev for Pokémon agent policy routing",
+      "summary": "Reports no benefit over plain BFS for step-by-step navigation, but finds Jev useful for higher-level policy routing at about 160 ms and $0.00002 per decision.",
+      "url": "https://2389.ai/research/writing/jev-plays-pokemon",
+      "kind": "opinion",
+      "category": "agents",
+      "categoryName": "Agent and workflow logic",
+      "source": "web",
+      "sourceLabel": "2389 Research",
+      "author": "Michael Sugimura",
+      "publishedAt": "2026-09-18",
+      "addedAt": "2026-10-01",
+      "metric": null,
+      "sentiment": "mixed",
+      "tags": [
+        "pokemon",
+        "policy-routing"
+      ],
+      "repo": null,
+      "tier": "listed"
+    },
+    {
+      "id": "e_mui4rqsh4qe881",
+      "title": "Rust SDK for TypeSafe AI Jev",
+      "summary": "Community Rust client library for TypeSafe AI System One API with typed decision support.",
+      "url": "https://github.com/aoprisan/typesafe-ai-rust-sdk",
+      "kind": "code",
+      "category": "sdks",
+      "categoryName": "SDKs and clients",
+      "source": "github",
+      "sourceLabel": "aoprisan",
+      "author": "aoprisan",
+      "publishedAt": "2026-09-17",
+      "addedAt": "2026-09-26",
+      "metric": {
+        "type": "stars",
+        "value": 3
+      },
+      "sentiment": null,
+      "tags": [
+        "rust",
+        "sdk",
+        "client"
+      ],
+      "repo": {
+        "slug": "aoprisan/typesafe-ai-rust-sdk"
+      },
+      "tier": "listed"
     }
   ]
 }
